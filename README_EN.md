@@ -1,5 +1,5 @@
 # Hungarian WorldSkills and EuroSkills national competitions' test projects - Web Technologies | Web Decvelopment
-## EuroSkills Herning 2025 nemzeti válogató
+## EuroSkills Herning 2025 national competition
 - [1. forduló](https://github.com/skillsit-hu/es2025-s17-hu-r1)
 - [2. forduló (középdöntő](https://github.com/es2025-s17-hu/es2025-s17-hu-r2)
 - [3. forduló (döntő)](https://github.com/es2025-s17-hu/es2025-s17-hu-r3)
