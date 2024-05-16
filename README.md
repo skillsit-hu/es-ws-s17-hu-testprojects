@@ -3,7 +3,9 @@
 ## EuroSkills Herning 2025 nemzeti válogató
 - [1. forduló](https://github.com/skillsit-hu/es2025-s17-hu-r1)
 - [2. forduló (középdöntő](https://github.com/es2025-s17-hu/es2025-s17-hu-r2)
-- [2. forduló (döntő)](https://github.com/es2025-s17-hu/es2025-s17-hu-r3)
+- [3. forduló (döntő)](https://github.com/es2025-s17-hu/es2025-s17-hu-r3)
+- [Projekt template-ek](https://github.com/es2025-s17-hu/es2025-s17-hu-r2-assets)
+- [A döntő működő backend megoldása](https://github.com/es2025-s17-hu/es2025-s17-r3-backend)
 ## WorldSkills Lyon 2024 nemzeti válogató
 - [1. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
 - [2. forduló (középdöntő)](https://github.com/skillsit-hu/ws2024-s17-hu-r2)
