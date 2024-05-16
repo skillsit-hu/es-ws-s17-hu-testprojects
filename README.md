@@ -10,3 +10,6 @@
 - [1. forduló](https://github.com/skillsit-hu/ws2024-s17-hu-r1)
 - [2. forduló (középdöntő)](https://github.com/skillsit-hu/ws2024-s17-hu-r2)
 - [3. forduló (döntő)](https://github.com/skillsit-hu/ws2024-s17-hu-r3)
+
+![Skills IT - WorldSkills Hungary](https://github.com/es2025-s17-hu/es2025-s17-hu-r3/assets/images/wshu-skillsit-sm.png)
+![Skills IT](https://github.com/es2025-s17-hu/es2025-s17-hu-r3/assets/images/skillsit-members.png)
